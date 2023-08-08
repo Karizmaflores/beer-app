@@ -1,0 +1,8 @@
+:root{
+--sizing-8: 8px;
+
+  /* --primary: #bada55; */
+  --spacing-xl: 64px;
+  --spacing-sm: var(--sizing-8);
+  --radi-sm: var(--sizing-8);
+}
